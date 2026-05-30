@@ -8,7 +8,7 @@ Keng (Kuek Ser Kuang Keng, Senior Editor for Rainforest Investigations at Pulitz
 
 **[Watch the video recordings](https://drive.google.com/drive/folders/18G7Yn4lNHLKoQs8KtnKSP2OgR1nt-7gR?usp=sharing)**
 
-**[Download the satellite imagery](https://drive.google.com/file/d/1l8nHDwsurQmBD2-zn5VlfWvHhchdlpox/view?usp=sharing)**
+**[Download the satellite imagery](https://drive.google.com/file/d/1l8nHDwsurQmBD2-zn5VlfWvHhchdlpox/view?usp=sharing) (downloaded from Planet)** 
 
 <img width="3507" height="2480" alt="kk-park-map-2" src="https://github.com/user-attachments/assets/c7b02a12-b861-45c8-912b-c11e31be2264" />
 
