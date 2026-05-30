@@ -10,6 +10,8 @@ Keng (Kuek Ser Kuang Keng, Senior Editor for Rainforest Investigations at Pulitz
 
 **[Download the satellite imagery](https://drive.google.com/file/d/1l8nHDwsurQmBD2-zn5VlfWvHhchdlpox/view?usp=sharing)**
 
+<img width="3507" height="2480" alt="kk-park-map-2" src="https://github.com/user-attachments/assets/c7b02a12-b861-45c8-912b-c11e31be2264" />
+
 This map example is inspired by a [story published by The Guardian](https://www.theguardian.com/global-development/2025/sep/08/myanmar-military-junta-scam-centres-trafficking-crime-syndicates-kk-park). The photo used for this workshop is also from the same story.
 
 ## Why use QGIS to make static maps instead of graphic editing software like Adobe Photoshop/Illustrator? 
